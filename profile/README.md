@@ -13,11 +13,11 @@ Resulting in **allowing users to do more than just communicate**
 
 _We are currently building an [eSIM Wallet](https://github.com/Blockchain-Powered-eSIM/eSIM) mobile application._  
 
-We have created a few set of wikis for onboarding ineterested folks into this concept:  
+We have created a few set of wikis and will keep updating them for better understanding: 
 - **[eSIM and Key Integration Point](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/eSIM-and-Key-Integration-Point)**
 - **[eSIM Wallet Mobile App](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/eSIM)**
 - **[Key Management](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/Key-Management)**
 - **[Smart Contract Suite](https://github.com/Blockchain-Powered-eSIM/smart-contract-suite)**
 
-Thankyou for your time, Drop a star on your favourite component's repo :)
+Drop a ⭐ on your favourite component's repo :)
 
