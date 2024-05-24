@@ -15,7 +15,7 @@ _We are currently building an [eSIM Wallet](https://github.com/Blockchain-Powere
 
 We have created a few set of wikis and will keep updating them for better understanding: 
 - **[eSIM and Key Integration Point](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/eSIM-and-Key-Integration-Point)**
-- **[eSIM Wallet Mobile App](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/eSIM)**
+- **[eSIM Wallet Mobile App](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki)**
 - **[Key Management](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/Key-Management)**
 - **[Smart Contract Suite](https://github.com/Blockchain-Powered-eSIM/smart-contract-suite)**
 
