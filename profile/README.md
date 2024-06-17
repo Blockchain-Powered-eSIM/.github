@@ -11,7 +11,7 @@ As the intersection of mobile telecommunications and blockchain technology, a ne
 
 Resulting in **allowing users to do more than just communicate**  
 
-_We are currently building an [eSIM Wallet](https://github.com/Blockchain-Powered-eSIM/eSIM) mobile application._  
+_We are currently building an [eSIM Wallet](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet) mobile application._  
 
 We have created a few set of wikis and will keep updating them for better understanding: 
 - **[eSIM and Key Integration Point](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/eSIM-and-Key-Integration-Point)**
