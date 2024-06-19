@@ -18,6 +18,7 @@ We have created a few set of wikis and will keep updating them for better unders
 - **[eSIM Wallet Mobile App](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki)**
 - **[Key Management](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/Key-Management)**
 - **[Smart Contract Suite](https://github.com/Blockchain-Powered-eSIM/smart-contract-suite)**
+- **[Remote SIM Provisioning](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/Remote-SIM-Provisioning)**
 
 Drop a ⭐ on your favourite component's repo :)
 
