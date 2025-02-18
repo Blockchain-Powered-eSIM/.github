@@ -13,19 +13,18 @@ Resulting in **allowing users to do more than just communicate**
 
 _We are currently building an [eSIM Wallet](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet) mobile application and working on [open source remote sim provisioning protocol](https://github.com/Blockchain-Powered-eSIM/OpenRSP)._  
 
-We have created a simple and easy to understand write up of our work in a few set of wikis and will keep updating them for better understanding: 
+We have created a simple and easy to understand write up of our work in a few set of wikis and repositories which we are continuosly updating: 
 
-### eSIM
+### eSIM Wikis
 - **[eSIM and Key Integration Point](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/eSIM-and-Key-Integration-Point)**
 - **[Remote SIM Provisioning (RSP)](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/Remote-SIM-Provisioning)**
-
-### Application
-- **[eSIM Wallet Mobile App](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/Key-Management)**
-- **[Key Management](https://github.com/Blockchain-Powered-eSIM/eSIM-Wallet/wiki/Key-Management)**
 
 ### Protocols
 - **[Smart Contract Suite](https://github.com/Blockchain-Powered-eSIM/smart-contract-suite)**
 - **[Open Source Remote SIM Provisisioning (OpenRSP)](https://github.com/Blockchain-Powered-eSIM/OpenRSP)**
+
+### Application
+- **[Kokio Mobile App](https://www.kokio.app)**
 
 Drop a ⭐ on your favourite component's repo :)
 
