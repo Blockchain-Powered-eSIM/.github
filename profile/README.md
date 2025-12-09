@@ -52,7 +52,7 @@ We have created a simple and easy to understand write up of our work in a few se
 
 > End-to-end threat modelling of consumer telecom hardware and cryptographic operations
 
-- [ProtecteeSIM](https://pitch.com/v/tee-experiments-qd9umk/43b9f76b-4af9-4bcb-b5cb-f9766b12451c)
+- [ProtecteeSIM](https://github.com/orgs/GMMS-Labs/discussions/1)
 
 Drop a ⭐ on your favourite component's repo :)
 
